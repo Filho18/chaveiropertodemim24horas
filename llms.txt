@@ -1,0 +1,95 @@
+﻿# Chaveiro Emergencial
+
+> Serviço de chaveiro profissional em Lisboa e arredores — disponível 24 horas por dia, 7 dias por semana.
+
+## Sobre o Negócio
+
+**Nome:** Chaveiro Emergencial
+**Website:** https://chaveiroemergencial.com
+**Telefone:** +351 XXX XXX XXX (linha de emergência 24h)
+**Email:** geral@chaveiroemergencial.com
+**Horário:** 24 horas por dia, 365 dias por ano
+**Área de serviço:** Distrito de Lisboa e Margem Sul (18 concelhos)
+
+## Serviços
+
+### Abertura de Portas Urgente
+- Resposta rápida em Lisboa e arredores
+- Método menos invasivo — preservamos a fechadura sempre que possível
+- Disponível 24h incluindo fins de semana e feriados
+- Preço a partir de 60€ (horário diurno, dia útil)
+- Cobertura: todos os tipos de porta — habitação, escritório, viatura
+- URL: https://chaveiroemergencial.com/servicos/abertura-de-portas-urgentes/
+
+### Troca e Instalação de Fechaduras
+- Instalação no mesmo dia
+- Stock das principais marcas: ASSA ABLOY, Mul-T-Lock, Yale, EVVA, Cisa
+- Fechaduras standard a partir de 80€ (mão de obra + fechadura incluída)
+- Fechaduras de segurança certificadas EN 1303 a partir de 150€
+- Garantia de 12 meses na mão de obra
+- URL: https://chaveiroemergencial.com/servicos/troca-de-fechadura/
+
+### Outros Serviços
+- Extração de chaves partidas no interior do cilindro
+- Reparação e manutenção de fechaduras
+- Abertura de cofres
+- Serviço para alojamento local e gestores de propriedade
+
+## Área de Cobertura
+
+Cobrimos 18 concelhos do distrito de Lisboa e Margem Sul:
+
+**Lisboa (cidade):** Lisboa Centro, Belém, Alfama, Benfica
+**Grande Lisboa Norte:** Amadora, Odivelas, Loures, Mafra, Vila Franca de Xira
+**Linha de Cascais:** Cascais, Oeiras, Sintra
+**Margem Sul:** Almada, Seixal, Barreiro, Setúbal, Montijo, Palmela
+
+Páginas por localização: https://chaveiroemergencial.com/chaveiro-perto-de-mim/
+
+## Diferenciais
+
+- Resposta rápida — chegamos em poucos minutos à sua zona
+- Orçamento comunicado por telefone antes de qualquer deslocação — sem surpresas na fatura
+- Método menos invasivo: preservamos a fechadura sempre que possível
+- 12 meses de garantia em todos os trabalhos de instalação
+- Identificação do cliente verificada antes de abrir qualquer porta (por segurança)
+- Operação 24h real — não um número de desvio para call center
+
+## Preços (Indicativos)
+
+| Serviço | Preço mínimo |
+|---------|-------------|
+| Abertura de portas (dia útil) | 60€ |
+| Abertura de portas (noturna / fim de semana) | 80€ |
+| Troca de fechadura standard | 80€ |
+| Troca de fechadura de segurança certificada | 150€ |
+| Extração de chave partida | 70€ |
+
+*Preços com IVA incluído. Orçamento exato gratuito por telefone.*
+
+## Perguntas Frequentes
+
+**Qual o tempo de resposta?**
+Chegamos rápido a Lisboa e concelhos próximos. O tempo depende da zona, do trânsito e da disponibilidade no momento.
+
+**Cobram deslocação?**
+A deslocação está incluída no preço. Se o orçamento não for aceite, não há custo.
+
+**Que documentos são necessários para abrir uma porta?**
+Documento de identificação (CC ou Passaporte) e comprovativo de morada do imóvel.
+
+**Trabalham ao fim de semana?**
+Sim, 24 horas por dia, 365 dias por ano.
+
+**Qual a garantia dos trabalhos?**
+12 meses na mão de obra. Peças com garantia do fabricante.
+
+## Markdown Mirrors
+
+As seguintes páginas têm versões em markdown para acesso por IA:
+
+- Homepage: https://chaveiroemergencial.com/index.md
+- Abertura de Portas: https://chaveiroemergencial.com/servicos/abertura-de-portas-urgentes/index.md
+- Troca de Fechadura: https://chaveiroemergencial.com/servicos/troca-de-fechadura/index.md
+- FAQ completo: https://chaveiroemergencial.com/faq/index.md
+- Áreas de cobertura: https://chaveiroemergencial.com/chaveiro-perto-de-mim/index.md

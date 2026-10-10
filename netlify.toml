@@ -1,0 +1,25 @@
+[build]
+  publish = "."
+  edge_functions = "netlify/edge-functions"
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
+# HTML — sem cache, browser vai sempre buscar versão nova ao servidor
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Assets — cache de 1 ano (cache-busting feito via ?v= nos HTML)
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Manifest — o Netlify nao conhece a extensao .webmanifest e serve como octet-stream
+[[headers]]
+  for = "/site.webmanifest"
+  [headers.values]
+    Content-Type = "application/manifest+json; charset=utf-8"
