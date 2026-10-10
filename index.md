@@ -1,4 +1,4 @@
-﻿# Chaveiro Emergencial — Abertura de Portas e Troca de Fechadura 24h em Lisboa
+﻿# Chaveiro Perto de Mim 24 Horas — Abertura de Portas e Troca de Fechadura 24h em Lisboa
 
 Serviço de chaveiro profissional em Lisboa e arredores. Disponível 24 horas por dia, 7 dias por semana.
 
@@ -14,7 +14,7 @@ Serviço de chaveiro profissional em Lisboa e arredores. Disponível 24 horas po
 
 18 concelhos: Lisboa Centro, Belém, Alfama, Benfica, Cascais, Sintra, Amadora, Odivelas, Loures, Almada, Seixal, Barreiro, Oeiras, Setúbal, Mafra, Vila Franca de Xira, Montijo, Palmela.
 
-## Porquê o Chaveiro Emergencial
+## Porquê o Chaveiro Perto de Mim 24 Horas
 
 - Resposta rápida à sua zona
 - Método menos invasivo — preservamos a fechadura sempre que possível

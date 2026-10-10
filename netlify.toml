@@ -1,10 +1,5 @@
 [build]
   publish = "."
-  edge_functions = "netlify/edge-functions"
-
-[functions]
-  directory = "netlify/functions"
-  node_bundler = "esbuild"
 
 # HTML — sem cache, browser vai sempre buscar versão nova ao servidor
 [[headers]]

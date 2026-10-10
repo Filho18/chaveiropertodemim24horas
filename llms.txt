@@ -1,13 +1,13 @@
-﻿# Chaveiro Emergencial
+﻿# Chaveiro Perto de Mim 24 Horas
 
 > Serviço de chaveiro profissional em Lisboa e arredores — disponível 24 horas por dia, 7 dias por semana.
 
 ## Sobre o Negócio
 
-**Nome:** Chaveiro Emergencial
-**Website:** https://chaveiroemergencial.com
+**Nome:** Chaveiro Perto de Mim 24 Horas
+**Website:** https://chaveiropertodemim24h.com
 **Telefone:** +351 XXX XXX XXX (linha de emergência 24h)
-**Email:** geral@chaveiroemergencial.com
+**Email:** geral@chaveiropertodemim24h.com
 **Horário:** 24 horas por dia, 365 dias por ano
 **Área de serviço:** Distrito de Lisboa e Margem Sul (18 concelhos)
 
@@ -19,7 +19,7 @@
 - Disponível 24h incluindo fins de semana e feriados
 - Preço a partir de 60€ (horário diurno, dia útil)
 - Cobertura: todos os tipos de porta — habitação, escritório, viatura
-- URL: https://chaveiroemergencial.com/servicos/abertura-de-portas-urgentes/
+- URL: https://chaveiropertodemim24h.com/servicos/abertura-de-portas-urgentes/
 
 ### Troca e Instalação de Fechaduras
 - Instalação no mesmo dia
@@ -27,7 +27,7 @@
 - Fechaduras standard a partir de 80€ (mão de obra + fechadura incluída)
 - Fechaduras de segurança certificadas EN 1303 a partir de 150€
 - Garantia de 12 meses na mão de obra
-- URL: https://chaveiroemergencial.com/servicos/troca-de-fechadura/
+- URL: https://chaveiropertodemim24h.com/servicos/troca-de-fechadura/
 
 ### Outros Serviços
 - Extração de chaves partidas no interior do cilindro
@@ -44,7 +44,7 @@ Cobrimos 18 concelhos do distrito de Lisboa e Margem Sul:
 **Linha de Cascais:** Cascais, Oeiras, Sintra
 **Margem Sul:** Almada, Seixal, Barreiro, Setúbal, Montijo, Palmela
 
-Páginas por localização: https://chaveiroemergencial.com/chaveiro-perto-de-mim/
+Páginas por localização: https://chaveiropertodemim24h.com/chaveiro-perto-de-mim/
 
 ## Diferenciais
 
@@ -88,8 +88,8 @@ Sim, 24 horas por dia, 365 dias por ano.
 
 As seguintes páginas têm versões em markdown para acesso por IA:
 
-- Homepage: https://chaveiroemergencial.com/index.md
-- Abertura de Portas: https://chaveiroemergencial.com/servicos/abertura-de-portas-urgentes/index.md
-- Troca de Fechadura: https://chaveiroemergencial.com/servicos/troca-de-fechadura/index.md
-- FAQ completo: https://chaveiroemergencial.com/faq/index.md
-- Áreas de cobertura: https://chaveiroemergencial.com/chaveiro-perto-de-mim/index.md
+- Homepage: https://chaveiropertodemim24h.com/index.md
+- Abertura de Portas: https://chaveiropertodemim24h.com/servicos/abertura-de-portas-urgentes/index.md
+- Troca de Fechadura: https://chaveiropertodemim24h.com/servicos/troca-de-fechadura/index.md
+- FAQ completo: https://chaveiropertodemim24h.com/faq/index.md
+- Áreas de cobertura: https://chaveiropertodemim24h.com/chaveiro-perto-de-mim/index.md

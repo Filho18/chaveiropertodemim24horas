@@ -4,7 +4,7 @@
 # <<< PAUSA-ZIVUG
 
 # Redirect www to non-www
-https://www.chaveirosena.pt/* https://chaveirosena.pt/:splat 301!
+https://www.chaveiropertodemim24h.com/* https://chaveiropertodemim24h.com/:splat 301!
 
 # 404 fallback
 /*    /404.html   404

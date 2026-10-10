@@ -1,12 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Chaveiro Emergencial">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Chaveiro Perto de Mim 24 Horas">
   <!--BG--><rect width="64" height="64" rx="14" fill="#111111"/>
   <!--MARK-START-->
-  <g transform="translate(-1 0)">
-    <circle cx="32" cy="24" r="15.6" fill="none" stroke="#FFAF00" stroke-width="7.4"/>
-    <rect x="28.2" y="36" width="7.6" height="22" rx="2.8" fill="#FFAF00"/>
-    <rect x="21.2" y="45.8" width="7.6" height="6" rx="1.8" fill="#FFAF00"/>
-    <rect x="18.2" y="53.4" width="10.6" height="6" rx="1.8" fill="#FFAF00"/>
-    <path d="M24.4 32 V22.6 L32 15.4 L39.6 22.6 V32 Z" fill="#FFFFFF"/>
-  </g>
+  <path d="M32 59 C29.5 55.5 12 40 12 25.5 A20 20 0 0 1 52 25.5 C52 40 34.5 55.5 32 59 Z" fill="#FFAF00"/>
+  <circle cx="32" cy="22" r="6.6" fill="#111111"/>
+  <path d="M28.6 25 H35.4 L37.4 38 H26.6 Z" fill="#111111"/>
   <!--MARK-END-->
 </svg>
