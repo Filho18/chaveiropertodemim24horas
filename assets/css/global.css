@@ -53,7 +53,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 .section--amber {
   background-color: var(--color-primary);
-  color: var(--color-black);
+  color: #FFFFFF;
 }
 
 .section-label {
@@ -137,13 +137,13 @@ img { max-width: 100%; height: auto; display: block; }
 
 .btn--primary {
   background-color: var(--color-primary);
-  color: var(--color-black);
+  color: #FFFFFF;
   border-color: var(--color-primary);
 }
 .btn--primary:hover {
   background-color: var(--color-primary-dark);
   border-color: var(--color-primary-dark);
-  color: var(--color-black);
+  color: #FFFFFF;
   box-shadow: var(--shadow-amber);
   transform: translateY(-2px);
 }
@@ -154,7 +154,7 @@ img { max-width: 100%; height: auto; display: block; }
   border-color: var(--color-black);
 }
 .btn--dark:hover {
-  background-color: #2a2a2a;
+  background-color: #1B2A47;
   color: var(--color-text-light);
   transform: translateY(-2px);
 }
@@ -166,7 +166,7 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .btn--outline:hover {
   background-color: var(--color-primary);
-  color: var(--color-black);
+  color: #FFFFFF;
 }
 
 .btn--outline-light {

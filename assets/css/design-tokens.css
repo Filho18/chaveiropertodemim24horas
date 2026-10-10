@@ -1,31 +1,31 @@
 /* ============================================
-   design-tokens.css — Chaveiro Sena
+   design-tokens.css — Chaveiro Perto de Mim 24h
    Estilo: Negrito e impactante
-   Paleta: Amarelo âmbar + Preto
+   Paleta: Azul-chamada + Azul-noite (escuro so no header/hero/footer)
    Gerado por: skill seo-site-structure
    ============================================ */
 
 :root {
 
   /* ── CORES ── */
-  --color-primary:       #FFC300;
-  --color-primary-dark:  #E6B000;
-  --color-primary-light: #FFD54F;
+  --color-primary:       #2F6FED;
+  --color-primary-dark:  #2459C9;
+  --color-primary-light: #6E9BF5;
 
-  --color-black:         #111111;
-  --color-secondary:     #1A1A1A;
-  --color-accent:        #FF6B00;
+  --color-black:         #0B1424;
+  --color-secondary:     #121D33;
+  --color-accent:        #F59E0B;
 
   --color-bg:            #FFFFFF;
-  --color-bg-alt:        #F5F5F5;
-  --color-bg-dark:       #111111;
+  --color-bg-alt:        #F3F6FB;
+  --color-bg-dark:       #0B1424;
 
-  --color-text:          #111111;
-  --color-text-muted:    #555555;
+  --color-text:          #0F1A2E;
+  --color-text-muted:    #526075;
   --color-text-light:    #FFFFFF;
 
-  --color-border:        #E0E0E0;
-  --color-border-dark:   #2A2A2A;
+  --color-border:        #DDE4EE;
+  --color-border-dark:   #1E2A40;
 
   --color-success:       #22C55E;
   --color-error:         #EF4444;
@@ -93,7 +93,7 @@
   --shadow-sm:    0 1px 3px rgba(0,0,0,.10);
   --shadow-md:    0 4px 16px rgba(0,0,0,.12);
   --shadow-lg:    0 8px 32px rgba(0,0,0,.15);
-  --shadow-amber: 0 4px 24px rgba(255,195,0,.35);
+  --shadow-amber: 0 4px 24px rgba(47,111,237,.40);
 
 
   /* ── TRANSIÇÕES ── */
